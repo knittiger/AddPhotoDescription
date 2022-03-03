@@ -5,7 +5,7 @@ Add-Type -AssemblyName System.Drawing
 $TEXTOFFSET_X = 100
 $TEXTOFFSET_Y = 120
 $FontType = "ÉÅÉCÉäÉI"
-$FontSize = 20
+$FontSize = 21
 $FontAlpha = 192
 
 $SrcPath = $PSScriptRoot + ".\src"
