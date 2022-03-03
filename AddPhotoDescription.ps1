@@ -4,7 +4,7 @@ Add-Type -AssemblyName System.Drawing
 
 $TEXTOFFSET_X = 100
 $TEXTOFFSET_Y = 120
-$FontType = "ƒƒCƒŠƒI"
+$FontType = "MS–¾’©"
 $FontSize = 21
 $FontAlpha = 192
 
